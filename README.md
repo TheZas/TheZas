@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alp Önder</h1>
+<h1 align="center">Hi 👋, I'm Theqayz</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thezas&label=Profile%20views&color=0e75b6&style=flat" alt="thezas" /> </p>
@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thezas&show_icons=true&locale=en" alt="thezas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thezas&" alt="thezas" /></p>
